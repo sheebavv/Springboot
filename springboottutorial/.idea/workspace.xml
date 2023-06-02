@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74044216-ab9c-443b-b107-e70d04223c55" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PsjeRpPFTnNJeAjWUWsR0MU6nM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Sheeba/MyLearnings/Springboot/SpringFrameworkDemo/springboottutorial/springboottutorial",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sheeba.springboot.tutorial.controller" />
+      <recent name="com.sheeba.springboot.tutorial.repository" />
+      <recent name="com.sheeba.springboot.tutorial.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringboottutorialApplication">
+    <configuration name="SpringboottutorialApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sheeba.springboot.tutorial.SpringboottutorialApplication" />
+      <module name="springboottutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sheeba.springboot.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentControllerTest.saveDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboottutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sheeba.springboot.tutorial.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sheeba.springboot.tutorial.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.sheeba.springboot.tutorial.controller.DepartmentControllerTest" />
+      <option name="METHOD_NAME" value="saveDepartment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentRepositoryTest.whenFindById_thenReturnDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboottutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sheeba.springboot.tutorial.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sheeba.springboot.tutorial.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.sheeba.springboot.tutorial.repository.DepartmentRepositoryTest" />
+      <option name="METHOD_NAME" value="whenFindById_thenReturnDepartment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboottutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sheeba.springboot.tutorial.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sheeba.springboot.tutorial.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sheeba.springboot.tutorial.service.DepartmentServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentServiceTest.whenValidDepartmentName_thenDepartmentShouldFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboottutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sheeba.springboot.tutorial.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sheeba.springboot.tutorial.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sheeba.springboot.tutorial.service.DepartmentServiceTest" />
+      <option name="METHOD_NAME" value="whenValidDepartmentName_thenDepartmentShouldFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DepartmentControllerTest.saveDepartment" />
+        <item itemvalue="JUnit.DepartmentRepositoryTest.whenFindById_thenReturnDepartment" />
+        <item itemvalue="JUnit.DepartmentServiceTest.whenValidDepartmentName_thenDepartmentShouldFound" />
+        <item itemvalue="JUnit.DepartmentServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74044216-ab9c-443b-b107-e70d04223c55" name="Changes" comment="" />
+      <created>1684252778881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684252778881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springboottutorial$SpringboottutorialApplication.ic" NAME="SpringboottutorialApplication Coverage Results" MODIFIED="1684256340550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sheeba.springboot.tutorial.*</FILTER>
+    </SUITE>
+  </component>
+</project>
